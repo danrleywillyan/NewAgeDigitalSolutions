@@ -9,7 +9,9 @@
       v-for="(item,i) in items"
       :key="i"
       :src="item.src"
-    ></v-carousel-item>
+    >
+      <h1>Nova Era Solu&ccedil;&otilde;es Digitais</h1>
+    </v-carousel-item>
   </v-carousel>
 </template>
 

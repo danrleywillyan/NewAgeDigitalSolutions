@@ -1,7 +1,5 @@
 <template>
   <div class="hello">
-    <h1>Nova Era Solu&ccedil;&otilde;es Digitais</h1>
-    <h2>Essential Links</h2>
     <Carousel></Carousel>
   </div>
 </template>

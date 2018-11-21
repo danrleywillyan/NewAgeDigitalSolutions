@@ -9,8 +9,10 @@
       tile
     >
       <v-card-title class="teal">
-        <strong class="subheading">Get connected with us on social networks!</strong>
-
+        <strong class="subheading">
+          Crie uma conex&atilde;o com sua solu&ccedil;&atilde;o digital atrav&eacute;s
+          das redes sociais.
+        </strong>
         <v-spacer></v-spacer>
 
         <v-btn
@@ -25,7 +27,7 @@
       </v-card-title>
 
       <v-card-actions class="grey darken-3 justify-center">
-        &copy;2018 — <strong>Vuetify</strong>
+        &copy;2018 — <strong>Grupo de M&iacute;dias e Comunica&ccedil;&otilde;es Digitais</strong>
       </v-card-actions>
     </v-card>
   </v-footer>
@@ -37,8 +39,8 @@ export default {
   data: () => ({
     icons: [
       'fab fa-facebook',
-      'fab fa-twitter',
-      'fab fa-google-plus',
+      'fab fa-github',
+      'fab fa-youtube',
       'fab fa-linkedin',
       'fab fa-instagram'
     ]

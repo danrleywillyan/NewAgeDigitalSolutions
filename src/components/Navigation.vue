@@ -46,7 +46,7 @@ export default {
         {
           text: 'Hello World',
           page: '/',
-          icon: 'home'
+          icon: '$vuetify.icons.home'
         },
         {
           text: 'About',
@@ -56,7 +56,7 @@ export default {
         {
           text: 'Contact',
           page: './Contact',
-          icon: 'lock_open'
+          icon: '$vuetify.icons.contact'
         }
       ]
     }
